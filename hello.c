@@ -12,6 +12,8 @@
 
      printf("Nicholas Witulski!\n");
      printf("Electrical Engineering\n");
+     printf("Roel Navarrete!\n");
+     printf("Computer Science\n");
 
      return 0;
  }
